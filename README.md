@@ -1,3 +1,5 @@
 # Udacity-VRDevelopet-Project3
 
-Built a VR application using Unity and the Google VR SDK where the user explores a maze environment to demonstrate working knowledge of 2D and 3D UI, waypoint based navigation, procedural animation, interactive objects, spatial audio, particle effects and persistent storage of session data.
+This Udacity project includes a series of assets used to build a VR app of a Maze that I developed for the assignment.
+The purpose of the project was to understand how scripting works in the game engine and apply those skills onto the provided scripts in these files.
+The scripts include features allowing the user to be able to travel to the location of selected waypoints, collect coins and keys when clicked, and open a door after the key is collected. 
